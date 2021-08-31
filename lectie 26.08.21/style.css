@@ -1,0 +1,75 @@
+.logo{
+	font-size: 60px;
+		text-decoration: none;
+		color: red;
+}
+.logo .fa-cuttlefish{
+color: black;
+font-size: 60px;
+margin-right: 15px;
+}
+.logo span{
+	color: black;
+}
+.logo2{
+width: 200px;
+height: 200px;
+position: relative;
+	background: #E90F0F;
+padding: 50px;
+
+}
+.logo2 h2{
+	position: absolute;
+	margin-top: -70px;
+	margin-left: 50px;
+	background: #E90F0F;
+	font-size: 30px;
+	padding: 0px;
+	color: white;
+
+}
+
+.audi1,
+.audi2,
+.audi3,
+.audi4{
+	height: 50px;
+	width: 50px;
+	border: 5px solid silver ;
+	border-radius: 50%;
+	margin-top: 100px;
+	
+}
+.audi{
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+}
+.audi1{
+	margin-right: -20px;
+}
+
+.audi3{
+	margin-right: -20px;
+}
+.audi2{
+	margin-right: -20px;
+}
+
+.vav{
+	display: flex;
+	justify-content: space-between;
+	background: #FEC5C5;
+    padding: 5px;
+    margin-top: ;
+}
+.vav a{
+	font-size: 25px;
+	margin-top: 10px;
+	
+	text-decoration: none;
+}
+.org{
+	
+color: white;
+}
